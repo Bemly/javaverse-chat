@@ -46,13 +46,14 @@ TCP-streamText：利用TCP识别字节流前几位再识别文本内容传输数
 
 ## 4.设计图(乱画就对了)
 
-![数据库展示2](./img/db2.png)![image-数据库展示3](./img/db3.png)![image-数据库展示4](./img/db4)![image-数据库展示5](./img/image-20230701010311479.png)![数据库展示7](./img/clip_image002.png)![image-数据库展示6](./img/image-20230701010523553.png)
+![数据库展示2](./img/db2.png)![image-数据库展示3](./img/db3.png)![image-数据库展示4](./img/db4.png)![image-数据库展示5](./img/image-20230701010311479.png)![数据库展示7](./img/clip_image002.png)![image-数据库展示6](./img/image-20230701010523553.png)
 
 # 如何使用
 
 ## 1.获得Azure OpenAI的使用资格
 
-首先去国际版Azure开通OpenAI服务，注意不要选[世纪互联(https://www.azure.cn/)<img src="./img/Dont_choose_Century_Internet.png" alt="不要选世纪互联" style="zoom: 67%;" />](https://www.azure.cn/)，这货现在还不支持azure openai服务，好消息是国际版的OpenAI是面向全球的包括中国，同时得益于微软Azure的功劳，这个API的使用国内是可以直连的，虽说需要付费但是免费第一个月的200美元配额还是挺香的，详细定价：https://azure.microsoft.com/zh-cn/pricing/details/cognitive-services/openai-service/，一般来说复制一段1000行的代码给GPT观摩差不多就4000标记（azure限制一次上下文每分钟只能4000标记）
+首先去国际版Azure开通OpenAI服务，注意不要选[世纪互联(https://www.azure.cn/)<img src="./img/Dont_choose_Century_Internet.png" alt="不要选世纪互联" style="zoom: 67%;" />](https://www.azure.cn/)，这货现在还不支持azure openai服务，好消息是国际版的OpenAI是面向全球的包括中国，同时得益于微软Azure的功劳，这个API的使用国内是可以直连的，虽说需要付费但是免费第一个月的200美元配额还是挺香的，详细定价：https://azure.microsoft.com/zh-cn/pricing/details/cognitive-services/openai-service/  
+一般来说复制一段1000行的代码给GPT观摩差不多就4000标记（azure限制一次上下文每分钟只能4000标记）
 
 ![image-20230630231259390](./img/image-20230630231259390.png)<img src="./img/Choose_the_correct_Azure_official_website.png" alt="选择正确的Azure官网" style="zoom: 33%;" />
 
