@@ -46,7 +46,7 @@ TCP-streamText：利用TCP识别字节流前几位再识别文本内容传输数
 
 ## 4.设计图(乱画就对了)
 
-![数据库展示2](./img/db2.png)![image-数据库展示3](./img/db3.png)![image-数据库展示4](./img/db4.png)![image-数据库展示5](./img/image-20230701010311479.png)![数据库展示7](./img/clip_image002.png)![image-数据库展示6](./img/image-20230701010523553.png)
+![数据库展示2](./img/db2.png)![image-数据库展示3](./img/db3.png)![image-数据库展示5](./img/image-20230701010311479.png)![数据库展示7](./img/clip_image002.png)![image-数据库展示6](./img/image-20230701010523553.png)
 
 # 如何使用
 
