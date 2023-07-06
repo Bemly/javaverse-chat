@@ -95,11 +95,10 @@ text-embedding-ada-002模型部署名：bemlyEmbedNya
 
 # 引用
 
-[晓晨Master：使用 Azure OpenAI 打造自己的 ChatGPT]: https://www.cnblogs.com/stulzq/p/17271937.html
-
-[阿法兔研究笔记：如何搞到一个 Azure OpenAI 的账号]: https://foresightnews.pro/article/detail/26826
-[快速入门：开始通过 Azure OpenAI 服务使用 ChatGPT 和 GPT-4]: https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/chatgpt-quickstart
-[Richasy：Fantasy Copilot]: https://github.com/Richasy/FantasyCopilot
+[\[晓晨Master：使用 Azure OpenAI 打造自己的 ChatGPT\]: https://www.cnblogs.com/stulzq/p/17271937.html](https://www.cnblogs.com/stulzq/p/17271937.html)
+[\[阿法兔研究笔记：如何搞到一个 Azure OpenAI 的账号\]: https://foresightnews.pro/article/detail/26826](https://foresightnews.pro/article/detail/26826)
+[\[快速入门：开始通过 Azure OpenAI 服务使用 ChatGPT 和 GPT-4\]: https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/chatgpt-quickstart](https://learn.microsoft.com/zh-cn/azure/cognitive-services/openai/chatgpt-quickstart)
+[\[Richasy：Fantasy Copilot\]: https://github.com/Richasy/FantasyCopilot](https://github.com/Richasy/FantasyCopilot)
 
 特别鸣谢其他开源项目对本项目的支持和这些文章的分享以及正在阅读这段文字的你  
 该文章自豪的采用***Typora***编写
