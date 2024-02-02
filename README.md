@@ -82,15 +82,6 @@ TCP-streamText：利用TCP识别字节流前几位再识别文本内容传输数
 
 有误的地方可以提Issue，我会尽量处理，目前暂无
 
-# 分享
-
-我试用一个月也用不完，先放出来分享给大家一起用了，主要拿它问正经问题就行，别搞事，怕我的账号被回收了  
-密钥2：bdb551ca5b5046f0b0958fe6a884f0b7  
-终结点：https://bemly.openai.azure.com/  
-gpt-35-turbo模型部署名：bemlyNya  
-text-davinci-003模型部署名：bemlyDavNya  
-text-embedding-ada-002模型部署名：bemlyEmbedNya
-
 ------
 
 # 引用
